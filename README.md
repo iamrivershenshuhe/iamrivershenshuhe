@@ -27,6 +27,8 @@ My current daily setup:
 
 less prompting, more coding. ☕
 
+
+![patrick](patrick-jane.gif)
 <!--
 **iamrivershenshuhe/iamrivershenshuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
